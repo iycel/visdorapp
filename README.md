@@ -70,6 +70,6 @@ $ git clone https://github.com/your-user-name/your-project-name
 ## Contact
 
 
-- GitHub [@yiycel](https://github.com/iycel)
+- GitHub [@iycel](https://github.com/iycel)
 
 - Linkedin [@iycel](www.linkedin.com/in/iycel)
