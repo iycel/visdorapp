@@ -20,10 +20,10 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-- [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
+  - [Built With](#built-with)
+- [How To Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
@@ -69,8 +69,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@yiycel](https://github.com/iycel)
+
+- Linkedin [@iycel](www.linkedin.com/in/iycel)
